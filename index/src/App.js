@@ -5,9 +5,10 @@ import './App.css';
 function App() {
   return (
     <div>
-      <p>React Functional Components in React</p>
+      <p>This is a nav bar</p>
       <h1>The page holds the confinantial information</h1>
       <functionalcomponunt/>
+      <welcome/>
     </div>
     
   );
